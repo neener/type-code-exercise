@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +29,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.jumbotron {
+  background: url(hero_image.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: -webkit-fill-available;
+}
+
+.logo-hamburger{
+  width: 36vh;
+  padding-top: 3rem;
+  padding-right: 3rem;
+}
+
+.xbutton, .checkbutton{
+  width: 12px;
 }
